@@ -1,0 +1,15 @@
+.header {
+  height: 10vh;
+  background-color: #404258;
+  color: #fff;
+  padding-right: 5em;
+  padding-left: 5em;
+}
+.connected-account {
+  font-weight: lighter;
+  font-size: 12px;
+}
+.user-name {
+  font-weight: bolder;
+  font-size: 24px;
+}
